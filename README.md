@@ -1,3 +1,5 @@
+# Survey 
+본 프로젝트는 직원들의 점심메뉴를 받아 업무효율을 높이기 위해 제작됨을 알려드립니다
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
